@@ -1,5 +1,6 @@
 # PASK
-DevOps Process Automation with ASP.NET Core Microservices, Angular 9  
+DevOps Process Automation with  
+ASP.NET Core Microservices, Angular 9  
 http://34.68.44.212/
 
 # Publish to a Cloud Cluster
