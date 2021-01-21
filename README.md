@@ -1,6 +1,4 @@
-# PASK 
-Process Automation Sekul Kamberov
-DevOps Process Automation with  
+# DevOps Process Automation with  
 ASP.NET Core Microservices, Angular 9  
 http://34.68.44.212/
 
