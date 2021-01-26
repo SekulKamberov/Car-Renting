@@ -6,7 +6,7 @@ http://34.68.44.212/
 Try https://cloud.google.com/ with 300$ demo 
 
 CI/CD Pipeline works fine.  
-Create a cluster with a minimum 16 CPUs and 32 GB of memory 
+Create a cluster with minimum 16 CPUs and 32 GB of memory 
 
 
 
