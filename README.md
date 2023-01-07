@@ -1,5 +1,5 @@
 # Automation with  
-ASP.NET Core Microservices, Angular 9  
+ASP.NET Core Microservices, Angular 9, CI, CD, Jenkins, Kubernetes, GCP  
 http://34.68.44.212/
 
 # Publish to a Cloud Cluster
